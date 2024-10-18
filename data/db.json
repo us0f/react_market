@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "id": "soda",
+      "name": "Soda",
+      "products": [
+        {
+          "id": 1,
+          "name": "V7 Cola",
+          "stock": 69,
+          "sold": 81,
+          "price": 1.5
+        },
+        {
+          "id": 2,
+          "name": "BIG Cola",
+          "stock": 66,
+          "sold": 54,
+          "price": 1.6
+        },
+        {
+          "id": 3,
+          "name": "BIG Orange",
+          "stock": 73,
+          "sold": 62,
+          "price": 1.55
+        },
+        {
+          "id": 4,
+          "name": "V7 Blueberry",
+          "stock": 51,
+          "sold": 39,
+          "price": 1.7
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "products": [
+        {
+          "id": 5,
+          "name": "Rayeb Milk",
+          "stock": 43,
+          "sold": 47,
+          "price": 1.2
+        },
+        {
+          "id": 6,
+          "name": "Beyti Mango",
+          "stock": 0,
+          "sold": 35,
+          "price": 2
+        },
+        {
+          "id": 7,
+          "name": "Elano Water",
+          "stock": 122,
+          "sold": 88,
+          "price": 0.5
+        }
+      ]
+    },
+    {
+      "id": "chips",
+      "name": "Chips",
+      "products": [
+        {
+          "id": 8,
+          "name": "BIGChips Cheese",
+          "stock": 174,
+          "sold": 126,
+          "price": 1.99
+        },
+        {
+          "id": 9,
+          "name": "BIGChips Lemon",
+          "stock": 108,
+          "sold": 92,
+          "price": 2.5
+        },
+        {
+          "id": 10,
+          "name": "BIGChips Vinegar",
+          "stock": 56,
+          "sold": 64,
+          "price": 2.75
+        }
+      ]
+    },
+    {
+      "id": "biscuits",
+      "name": "Biscuits",
+      "products": [
+        {
+          "id": 11,
+          "name": "Freska Sticks",
+          "stock": -6,
+          "sold": 81,
+          "price": 3
+        },
+        {
+          "id": 12,
+          "name": "Freska Fingers",
+          "stock": 62,
+          "sold": 38,
+          "price": 2.5
+        },
+        {
+          "id": 13,
+          "name": "Freska Bar",
+          "stock": 85,
+          "sold": 50,
+          "price": 2.75
+        }
+      ]
+    }
+  ]
+}
